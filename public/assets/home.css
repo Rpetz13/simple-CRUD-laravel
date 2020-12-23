@@ -1,0 +1,17 @@
+body {
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  margin-top: 50vh;
+}
+
+.btn-custom {
+  width: 156px;
+  height: 46px;
+  background-color: aqua;
+  border: 2px solid springgreen;
+  border-radius: 6px;
+}
